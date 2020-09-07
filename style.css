@@ -1,0 +1,82 @@
+body{
+    position: relative;
+width: 1440px;
+height: 900px;
+background: #FFFFFF;
+}
+h1{
+    position: absolute;
+width: 221.16px;
+height: 76.11px;
+left: calc(50% - 221.16px/2 - 476.11px);
+top: calc(50% - 76.11px/2 - 428.94px);
+
+font-family: Qwigley;
+font-style: normal;
+font-weight: normal;
+font-size: 74px;
+line-height: 92px;
+
+color: #FFF7EC;
+
+border: 1px solid rgba(255, 245, 230, 0.54);
+text-shadow: 1px 4px 4px rgba(255, 245, 230, 0.54);
+transform: rotate(5.51deg);
+}
+h3{
+    position: absolute;
+width: 440px;
+height: 50px;
+left: 538px;
+top: 357px;
+
+font-family: UnifrakturCook;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 52px;
+text-align: center;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.col-11{
+    position: absolute;
+width: 1369px;
+height: 865px;
+left: 76px;
+top: 88px;
+
+background: url(pngtree-creative-autumn-forest-background-autumnwarm-colorwoods-backgroundforest-image_59079.jpg);
+background-blend-mode: multiply;
+}
+.pic{
+    position: absolute;
+width: 260.81px;
+height: 313.51px;
+left: 976.62px;
+top: 398.42px;
+
+background: url(4ab216b95f503473f9ab6ba98fb2ac71.png);
+transform: rotate(10.9deg);
+}
+.col-1{
+    position: absolute;
+width: 73px;
+height: 900px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, rgba(84, 47, 27, 0.38) 0%, rgba(248, 178, 138, 0.207813) 66.33%, rgba(255, 228, 196, 0) 100%);
+background-blend-mode: multiply;
+
+position: absolute;
+width: 73px;
+height: 651px;
+left: 0px;
+top: 76px;
+
+background: url(unnamed.png);
+filter: blur(2px);
+}
